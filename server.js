@@ -1,34 +1,46 @@
+// 🌐 Carga de variables de entorno desde .env
+require('dotenv').config();
+
+// 📦 Importación de dependencias
 const express = require('express');
 const cors = require('cors');
 const axios = require('axios');
 const mongoose = require('mongoose');
 
-// ✅ Inicializar Express
+// ✅ Inicialización de la app Express
 const app = express();
-const PORT = 3001;
 
-// 🔐 Middleware
+// 🧠 Puerto dinámico: Render lo asigna automáticamente
+const PORT = process.env.PORT || 3001;
+
+// 🔐 Middleware de seguridad y formato
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://localhost:3000', 'http://localhost:5174']
+  origin: [
+    'http://localhost:5173',
+    'http://localhost:3000',
+    'http://localhost:5174',
+    'https://tusitio-frontend.vercel.app' // ← agregá tu dominio real cuando lo tengas
+  ]
 }));
 app.use(express.json());
 
-// 🔧 Rutas protegidas
+// 🔧 Rutas protegidas (modularizadas)
 const authRoutes = require('./routes/auth');
 const mesasRoutes = require('./routes/mesas');
 const usuariosRoutes = require('./routes/usuarios');
+
 app.use('/api/auth', authRoutes);
 app.use('/api/mesas', mesasRoutes);
 app.use('/api/usuarios', usuariosRoutes);
 
-// 🧠 Conexión a MongoDB Atlas
-mongoose.connect('mongodb+srv://Sistemas_01:Sistemas_01@oficina.5nq1scq.mongodb.net/eleccionesDB?retryWrites=true&w=majority')
+// 🧠 Conexión a MongoDB Atlas usando variable de entorno
+mongoose.connect(process.env.DB_URL)
   .then(() => {
     console.log('✅ Conectado a MongoDB Atlas');
 
-    // 🚀 Iniciar el servidor solo si la conexión fue exitosa
+    // 🚀 Iniciar servidor solo si la conexión fue exitosa
     app.listen(PORT, () => {
-      console.log(`🚀 Servidor proxy corriendo en http://localhost:${PORT}`);
+      console.log(`🚀 Servidor corriendo en http://localhost:${PORT}`);
     });
   })
   .catch((err) => {
@@ -54,6 +66,7 @@ app.get('/api/nacional', async (req, res) => {
   const debeTotalizar = !seccionId || seccionId === '0';
 
   if (debeTotalizar) {
+    // 🧮 Totaliza todas las secciones de Catamarca
     const seccionesCatamarca = Array.from({ length: 16 }, (_, i) => String(i + 1));
     try {
       const resultados = await Promise.all(
@@ -63,6 +76,7 @@ app.get('/api/nacional', async (req, res) => {
         })
       );
 
+      // 📊 Suma los resultados por sección
       const resumenProvincial = resultados.reduce((acc, curr) => {
         acc.cantidadVotantes += curr.cantidadVotantes || 0;
         acc.mesasTotalizadas += curr.mesasTotalizadas || 0;
@@ -74,6 +88,7 @@ app.get('/api/nacional', async (req, res) => {
         cantidadElectores: 0
       });
 
+      // 📈 Calcula participación
       resumenProvincial.participacionPorcentaje = (
         (resumenProvincial.cantidadVotantes / resumenProvincial.cantidadElectores) * 100
       ).toFixed(2);
@@ -84,6 +99,7 @@ app.get('/api/nacional', async (req, res) => {
       res.status(500).json({ message: 'Error al totalizar Catamarca por secciones', details: error.message });
     }
   } else {
+    // 🔍 Consulta directa por sección/circuito
     const params = {
       ...filtrosBase,
       ...(seccionId && seccionId !== '0' ? { seccionId } : {}),
@@ -102,6 +118,7 @@ app.get('/api/nacional', async (req, res) => {
     }
   }
 });
+
 
 // 🧠 Ruta real por mesa
 app.get('/api/nacional/mesa', async (req, res) => {
@@ -144,7 +161,8 @@ app.get('/api/nacional/mesa', async (req, res) => {
   }
 });
 
-// 🧠 Comparación entre 2023 y 2025
+
+// 🧠 Comparación entre 2023 y 2025 (mesa testigo vs oficial)
 app.get('/api/comparar/mesa', async (req, res) => {
   const {
     mesaId,
@@ -173,6 +191,7 @@ app.get('/api/comparar/mesa', async (req, res) => {
       axios.get('https://68d6a769c2a1754b426b7d94.mockapi.io/api/resultados')
     ]);
 
+    // 🔍 Busca datos simulados para 2025
     const datos2025 = res2025.data.find(item =>
       String(item.mesaId).trim() === String(mesaId).trim() &&
       String(item.circuitoId).padStart(5, '0').trim() === String(circuitoId).padStart(5, '0').trim()
@@ -184,6 +203,7 @@ app.get('/api/comparar/mesa', async (req, res) => {
       });
     }
 
+    // 📊 Devuelve comparación
     res.json({
       mesaId,
       circuitoId,
