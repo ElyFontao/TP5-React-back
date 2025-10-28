@@ -1,15 +1,40 @@
-// server.js
 const express = require('express');
 const cors = require('cors');
 const axios = require('axios');
+const mongoose = require('mongoose');
 
+// ✅ Inicializar Express
 const app = express();
 const PORT = 3001;
 
-// 🔐 CORS para desarrollo local
+// 🔐 Middleware
 app.use(cors({
   origin: ['http://localhost:5173', 'http://localhost:3000', 'http://localhost:5174']
 }));
+app.use(express.json());
+
+// 🔧 Rutas protegidas
+const authRoutes = require('./routes/auth');
+const mesasRoutes = require('./routes/mesas');
+const usuariosRoutes = require('./routes/usuarios');
+app.use('/api/auth', authRoutes);
+app.use('/api/mesas', mesasRoutes);
+app.use('/api/usuarios', usuariosRoutes);
+
+// 🧠 Conexión a MongoDB Atlas
+mongoose.connect('mongodb+srv://Sistemas_01:Sistemas_01@oficina.5nq1scq.mongodb.net/eleccionesDB?retryWrites=true&w=majority')
+  .then(() => {
+    console.log('✅ Conectado a MongoDB Atlas');
+
+    // 🚀 Iniciar el servidor solo si la conexión fue exitosa
+    app.listen(PORT, () => {
+      console.log(`🚀 Servidor proxy corriendo en http://localhost:${PORT}`);
+    });
+  })
+  .catch((err) => {
+    console.error('❌ Error de conexión a MongoDB:', err.message);
+  });
+
 
 // 🧠 Ruta real para resumen provincial (Catamarca)
 app.get('/api/nacional', async (req, res) => {
@@ -25,30 +50,15 @@ app.get('/api/nacional', async (req, res) => {
   } = req.query;
 
   const url = `https://resultados.mininterior.gob.ar/api/resultados/getResultados`;
-
-  const filtrosBase = {
-    anioEleccion,
-    tipoRecuento,
-    tipoEleccion,
-    categoriaId,
-    distritoId,
-    seccionProvincialId
-  };
-
+  const filtrosBase = { anioEleccion, tipoRecuento, tipoEleccion, categoriaId, distritoId, seccionProvincialId };
   const debeTotalizar = !seccionId || seccionId === '0';
 
   if (debeTotalizar) {
     const seccionesCatamarca = Array.from({ length: 16 }, (_, i) => String(i + 1));
-
     try {
       const resultados = await Promise.all(
         seccionesCatamarca.map(async (seccionId) => {
-          const response = await axios.get(url, {
-            params: {
-              ...filtrosBase,
-              seccionId
-            }
-          });
+          const response = await axios.get(url, { params: { ...filtrosBase, seccionId } });
           return response.data.estadoRecuento;
         })
       );
@@ -74,7 +84,6 @@ app.get('/api/nacional', async (req, res) => {
       res.status(500).json({ message: 'Error al totalizar Catamarca por secciones', details: error.message });
     }
   } else {
-    // Consulta directa por sección o circuito
     const params = {
       ...filtrosBase,
       ...(seccionId && seccionId !== '0' ? { seccionId } : {}),
@@ -94,7 +103,7 @@ app.get('/api/nacional', async (req, res) => {
   }
 });
 
-// 🧠 Ruta real por mesa (proxy hacia API nacional)
+// 🧠 Ruta real por mesa
 app.get('/api/nacional/mesa', async (req, res) => {
   const {
     anioEleccion,
@@ -134,11 +143,13 @@ app.get('/api/nacional/mesa', async (req, res) => {
     });
   }
 });
+
+// 🧠 Comparación entre 2023 y 2025
 app.get('/api/comparar/mesa', async (req, res) => {
   const {
     mesaId,
     circuitoId,
-    seccionId, // ← sigue disponible para filtros 2023, pero no se usa en el filtro 2025
+    seccionId,
     distritoId = 3,
     categoriaId = 3,
     tipoRecuento = 1
@@ -162,7 +173,6 @@ app.get('/api/comparar/mesa', async (req, res) => {
       axios.get('https://68d6a769c2a1754b426b7d94.mockapi.io/api/resultados')
     ]);
 
-    // 🔍 Normalizar y filtrar SIN usar seccionId
     const datos2025 = res2025.data.find(item =>
       String(item.mesaId).trim() === String(mesaId).trim() &&
       String(item.circuitoId).padStart(5, '0').trim() === String(circuitoId).padStart(5, '0').trim()
@@ -187,9 +197,4 @@ app.get('/api/comparar/mesa', async (req, res) => {
       details: error.message
     });
   }
-});
-
-// 🚀 Inicio del servidor
-app.listen(PORT, () => {
-  console.log(`🚀 Servidor proxy corriendo en http://localhost:${PORT}`);
 });

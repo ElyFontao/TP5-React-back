@@ -4,14 +4,27 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.12.2",
+    "bcrypt": "^6.0.0",
     "cors": "^2.8.5",
-    "express": "^5.1.0"
-  }
+    "csv-parser": "^3.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElyFontao/TP5-React-back.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ElyFontao/TP5-React-back/issues"
+  },
+  "homepage": "https://github.com/ElyFontao/TP5-React-back#readme"
 }

@@ -1,0 +1,7408 @@
+[
+  {
+    "mesaId": "125",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "126",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "127",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "128",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "129",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "130",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "131",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "132",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "133",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "110",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "111",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "112",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "115",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "116",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "117",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "118",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "119",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "120",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "121",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "122",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "123",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "124",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "101",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "102",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "103",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "104",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "105",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "106",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "107",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "108",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "109",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "113",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "114",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "86",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "87",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "88",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "91",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "92",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "93",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "94",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "95",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "96",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "97",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "98",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "99",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "100",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "71",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "72",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "76",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "77",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "78",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "79",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "80",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "81",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "82",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "83",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "84",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "85",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "89",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "90",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "62",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "63",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "64",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "65",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "66",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 354
+  },
+  {
+    "mesaId": "67",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "68",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "69",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "70",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "73",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "74",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "75",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 354
+  },
+  {
+    "mesaId": "47",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "48",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "52",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "53",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "54",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "55",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "56",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "57",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "58",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 353
+  },
+  {
+    "mesaId": "59",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "60",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "61",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "37",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "38",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "39",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "40",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "41",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "42",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 353
+  },
+  {
+    "mesaId": "43",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "44",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "45",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "46",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "49",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "50",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 353
+  },
+  {
+    "mesaId": "51",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "23",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "24",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "27",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "28",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "29",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "30",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "31",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "32",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "33",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "34",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "35",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "36",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "13",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "14",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "15",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "16",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "17",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "18",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "19",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "20",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "21",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "22",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "25",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "26",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "1",
+    "circuitoId": "00001",
+    "seccionId": "1",
+    "localidad": "00001",
+    "cantidadElectores": 303
+  },
+  {
+    "mesaId": "3",
+    "circuitoId": "00001",
+    "seccionId": "1",
+    "localidad": "00001",
+    "cantidadElectores": 302
+  },
+  {
+    "mesaId": "4",
+    "circuitoId": "00001",
+    "seccionId": "1",
+    "localidad": "00001",
+    "cantidadElectores": 303
+  },
+  {
+    "mesaId": "5",
+    "circuitoId": "00001",
+    "seccionId": "1",
+    "localidad": "00001",
+    "cantidadElectores": 302
+  },
+  {
+    "mesaId": "6",
+    "circuitoId": "00001",
+    "seccionId": "1",
+    "localidad": "00001",
+    "cantidadElectores": 301
+  },
+  {
+    "mesaId": "7",
+    "circuitoId": "00001",
+    "seccionId": "1",
+    "localidad": "00001",
+    "cantidadElectores": 307
+  },
+  {
+    "mesaId": "8",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "9",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "10",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "11",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "12",
+    "circuitoId": "00002",
+    "seccionId": "1",
+    "localidad": "00002",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "2",
+    "circuitoId": "00001",
+    "seccionId": "1",
+    "localidad": "00001",
+    "cantidadElectores": 303
+  },
+  {
+    "mesaId": "408",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "409",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 329
+  },
+  {
+    "mesaId": "410",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 332
+  },
+  {
+    "mesaId": "394",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "395",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "396",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 354
+  },
+  {
+    "mesaId": "399",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "400",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 329
+  },
+  {
+    "mesaId": "401",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 332
+  },
+  {
+    "mesaId": "402",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 332
+  },
+  {
+    "mesaId": "403",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 327
+  },
+  {
+    "mesaId": "404",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 330
+  },
+  {
+    "mesaId": "405",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "406",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 327
+  },
+  {
+    "mesaId": "407",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 329
+  },
+  {
+    "mesaId": "379",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "384",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "385",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "386",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "387",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "388",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "389",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "390",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "391",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 353
+  },
+  {
+    "mesaId": "392",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "393",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "397",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "398",
+    "circuitoId": "00009",
+    "seccionId": "1",
+    "localidad": "00009",
+    "cantidadElectores": 331
+  },
+  {
+    "mesaId": "369",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "370",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "371",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "372",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "374",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 354
+  },
+  {
+    "mesaId": "375",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "376",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "377",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "378",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 355
+  },
+  {
+    "mesaId": "380",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "381",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "382",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "383",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "355",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "356",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "360",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "361",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "362",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "363",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "364",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "365",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "366",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "367",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "368",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 357
+  },
+  {
+    "mesaId": "373",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "345",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "346",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "347",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "348",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "349",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "350",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "351",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "352",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "353",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "354",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "357",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "358",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "359",
+    "circuitoId": "00008",
+    "seccionId": "1",
+    "localidad": "00008",
+    "cantidadElectores": 354
+  },
+  {
+    "mesaId": "330",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "331",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "332",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "335",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "336",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "337",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "338",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "339",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "340",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "341",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "342",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "343",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "344",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "321",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "322",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "323",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "324",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "325",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "326",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "327",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "328",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "329",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "333",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "334",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "306",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "307",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "308",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "311",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "312",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "313",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "314",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "315",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "316",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "317",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "318",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "319",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "320",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "291",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "296",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "297",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "298",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "299",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "300",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "301",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "302",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "303",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "304",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "305",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "309",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "310",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "290",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "292",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "293",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "294",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "295",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "275",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "280",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "281",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "282",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "283",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "284",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "285",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "286",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "287",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "288",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 353
+  },
+  {
+    "mesaId": "289",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "265",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "266",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "267",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "268",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "270",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "271",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "272",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "273",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "274",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "276",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "277",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "278",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "279",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "251",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "256",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "257",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "258",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "259",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "260",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "261",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "262",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "263",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "264",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "269",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "252",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "253",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "254",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "255",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "241",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "242",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "243",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "244",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "246",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "247",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "248",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "249",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "250",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "226",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "227",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "228",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "231",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "232",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "233",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "234",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "235",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "236",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "237",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "238",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "239",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "240",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "245",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "217",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "218",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "219",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "220",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "221",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "222",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "223",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "224",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "225",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "229",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "230",
+    "circuitoId": "00007",
+    "seccionId": "1",
+    "localidad": "00007",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "202",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "203",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "204",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 327
+  },
+  {
+    "mesaId": "207",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "208",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 329
+  },
+  {
+    "mesaId": "209",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 329
+  },
+  {
+    "mesaId": "210",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 329
+  },
+  {
+    "mesaId": "211",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 330
+  },
+  {
+    "mesaId": "212",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "213",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 329
+  },
+  {
+    "mesaId": "214",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 329
+  },
+  {
+    "mesaId": "215",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 327
+  },
+  {
+    "mesaId": "216",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 332
+  },
+  {
+    "mesaId": "192",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "193",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "194",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "195",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "196",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "197",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "198",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "199",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "200",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "201",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "205",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 331
+  },
+  {
+    "mesaId": "206",
+    "circuitoId": "00006",
+    "seccionId": "1",
+    "localidad": "00006",
+    "cantidadElectores": 330
+  },
+  {
+    "mesaId": "178",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "179",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "180",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "182",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "183",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "184",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "185",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "186",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "187",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "188",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "189",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "190",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "191",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "163",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 337
+  },
+  {
+    "mesaId": "168",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "169",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "170",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 336
+  },
+  {
+    "mesaId": "171",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "172",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "173",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "174",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "175",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "176",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "177",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "181",
+    "circuitoId": "00005",
+    "seccionId": "1",
+    "localidad": "00005",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "153",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "154",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "155",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "156",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "158",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "159",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "160",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "161",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 337
+  },
+  {
+    "mesaId": "162",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "164",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "165",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 337
+  },
+  {
+    "mesaId": "166",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "167",
+    "circuitoId": "00004",
+    "seccionId": "1",
+    "localidad": "00004",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "139",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "140",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "143",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "144",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "145",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "146",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "147",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "148",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "149",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "150",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "151",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "152",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "157",
+    "circuitoId": "0003A",
+    "seccionId": "1",
+    "localidad": "0003A",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "134",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "135",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "136",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "137",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "138",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "141",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "142",
+    "circuitoId": "00003",
+    "seccionId": "1",
+    "localidad": "00003",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "455",
+    "circuitoId": "00018",
+    "seccionId": "2",
+    "localidad": "00018",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "456",
+    "circuitoId": "00019",
+    "seccionId": "2",
+    "localidad": "00019",
+    "cantidadElectores": 179
+  },
+  {
+    "mesaId": "457",
+    "circuitoId": "00019",
+    "seccionId": "2",
+    "localidad": "00019",
+    "cantidadElectores": 182
+  },
+  {
+    "mesaId": "458",
+    "circuitoId": "00020",
+    "seccionId": "2",
+    "localidad": "00020",
+    "cantidadElectores": 314
+  },
+  {
+    "mesaId": "459",
+    "circuitoId": "00021",
+    "seccionId": "2",
+    "localidad": "00021",
+    "cantidadElectores": 290
+  },
+  {
+    "mesaId": "460",
+    "circuitoId": "00021",
+    "seccionId": "2",
+    "localidad": "00021",
+    "cantidadElectores": 292
+  },
+  {
+    "mesaId": "440",
+    "circuitoId": "00014",
+    "seccionId": "2",
+    "localidad": "00014",
+    "cantidadElectores": 331
+  },
+  {
+    "mesaId": "441",
+    "circuitoId": "00014",
+    "seccionId": "2",
+    "localidad": "00014",
+    "cantidadElectores": 332
+  },
+  {
+    "mesaId": "442",
+    "circuitoId": "00014",
+    "seccionId": "2",
+    "localidad": "00014",
+    "cantidadElectores": 333
+  },
+  {
+    "mesaId": "445",
+    "circuitoId": "00014",
+    "seccionId": "2",
+    "localidad": "00014",
+    "cantidadElectores": 333
+  },
+  {
+    "mesaId": "446",
+    "circuitoId": "00015",
+    "seccionId": "2",
+    "localidad": "00015",
+    "cantidadElectores": 179
+  },
+  {
+    "mesaId": "447",
+    "circuitoId": "00015",
+    "seccionId": "2",
+    "localidad": "00015",
+    "cantidadElectores": 178
+  },
+  {
+    "mesaId": "448",
+    "circuitoId": "00016",
+    "seccionId": "2",
+    "localidad": "00016",
+    "cantidadElectores": 307
+  },
+  {
+    "mesaId": "449",
+    "circuitoId": "00016",
+    "seccionId": "2",
+    "localidad": "00016",
+    "cantidadElectores": 306
+  },
+  {
+    "mesaId": "450",
+    "circuitoId": "00016",
+    "seccionId": "2",
+    "localidad": "00016",
+    "cantidadElectores": 304
+  },
+  {
+    "mesaId": "451",
+    "circuitoId": "00016",
+    "seccionId": "2",
+    "localidad": "00016",
+    "cantidadElectores": 305
+  },
+  {
+    "mesaId": "452",
+    "circuitoId": "00016",
+    "seccionId": "2",
+    "localidad": "00016",
+    "cantidadElectores": 304
+  },
+  {
+    "mesaId": "453",
+    "circuitoId": "00016",
+    "seccionId": "2",
+    "localidad": "00016",
+    "cantidadElectores": 306
+  },
+  {
+    "mesaId": "454",
+    "circuitoId": "00017",
+    "seccionId": "2",
+    "localidad": "00017",
+    "cantidadElectores": 36
+  },
+  {
+    "mesaId": "430",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 333
+  },
+  {
+    "mesaId": "431",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "432",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 337
+  },
+  {
+    "mesaId": "433",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 336
+  },
+  {
+    "mesaId": "434",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "435",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 336
+  },
+  {
+    "mesaId": "436",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 333
+  },
+  {
+    "mesaId": "437",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 336
+  },
+  {
+    "mesaId": "438",
+    "circuitoId": "00014",
+    "seccionId": "2",
+    "localidad": "00014",
+    "cantidadElectores": 331
+  },
+  {
+    "mesaId": "439",
+    "circuitoId": "00014",
+    "seccionId": "2",
+    "localidad": "00014",
+    "cantidadElectores": 332
+  },
+  {
+    "mesaId": "443",
+    "circuitoId": "00014",
+    "seccionId": "2",
+    "localidad": "00014",
+    "cantidadElectores": 331
+  },
+  {
+    "mesaId": "444",
+    "circuitoId": "00014",
+    "seccionId": "2",
+    "localidad": "00014",
+    "cantidadElectores": 330
+  },
+  {
+    "mesaId": "418",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 334
+  },
+  {
+    "mesaId": "419",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "420",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 336
+  },
+  {
+    "mesaId": "423",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 334
+  },
+  {
+    "mesaId": "424",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "425",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "426",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "427",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "428",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 336
+  },
+  {
+    "mesaId": "429",
+    "circuitoId": "00013",
+    "seccionId": "2",
+    "localidad": "00013",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "411",
+    "circuitoId": "00010",
+    "seccionId": "2",
+    "localidad": "00010",
+    "cantidadElectores": 61
+  },
+  {
+    "mesaId": "412",
+    "circuitoId": "00011",
+    "seccionId": "2",
+    "localidad": "00011",
+    "cantidadElectores": 298
+  },
+  {
+    "mesaId": "413",
+    "circuitoId": "00011",
+    "seccionId": "2",
+    "localidad": "00011",
+    "cantidadElectores": 304
+  },
+  {
+    "mesaId": "414",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "415",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "416",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "417",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "421",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 337
+  },
+  {
+    "mesaId": "422",
+    "circuitoId": "00012",
+    "seccionId": "2",
+    "localidad": "00012",
+    "cantidadElectores": 334
+  },
+  {
+    "mesaId": "498",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "499",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "500",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "501",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "502",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "503",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "506",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "507",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "508",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "479",
+    "circuitoId": "00027",
+    "seccionId": "3",
+    "localidad": "00027",
+    "cantidadElectores": 303
+  },
+  {
+    "mesaId": "480",
+    "circuitoId": "00028",
+    "seccionId": "3",
+    "localidad": "00028",
+    "cantidadElectores": 285
+  },
+  {
+    "mesaId": "481",
+    "circuitoId": "00028",
+    "seccionId": "3",
+    "localidad": "00028",
+    "cantidadElectores": 285
+  },
+  {
+    "mesaId": "482",
+    "circuitoId": "00028",
+    "seccionId": "3",
+    "localidad": "00028",
+    "cantidadElectores": 286
+  },
+  {
+    "mesaId": "484",
+    "circuitoId": "00029",
+    "seccionId": "3",
+    "localidad": "00029",
+    "cantidadElectores": 177
+  },
+  {
+    "mesaId": "485",
+    "circuitoId": "00029",
+    "seccionId": "3",
+    "localidad": "00029",
+    "cantidadElectores": 179
+  },
+  {
+    "mesaId": "486",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "487",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "488",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "489",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "490",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "491",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "492",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "493",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "494",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "465",
+    "circuitoId": "00024",
+    "seccionId": "3",
+    "localidad": "00024",
+    "cantidadElectores": 272
+  },
+  {
+    "mesaId": "466",
+    "circuitoId": "00024",
+    "seccionId": "3",
+    "localidad": "00024",
+    "cantidadElectores": 274
+  },
+  {
+    "mesaId": "469",
+    "circuitoId": "00025",
+    "seccionId": "3",
+    "localidad": "00025",
+    "cantidadElectores": 324
+  },
+  {
+    "mesaId": "470",
+    "circuitoId": "00025",
+    "seccionId": "3",
+    "localidad": "00025",
+    "cantidadElectores": 322
+  },
+  {
+    "mesaId": "471",
+    "circuitoId": "00025",
+    "seccionId": "3",
+    "localidad": "00025",
+    "cantidadElectores": 321
+  },
+  {
+    "mesaId": "472",
+    "circuitoId": "00025",
+    "seccionId": "3",
+    "localidad": "00025",
+    "cantidadElectores": 323
+  },
+  {
+    "mesaId": "473",
+    "circuitoId": "00025",
+    "seccionId": "3",
+    "localidad": "00025",
+    "cantidadElectores": 321
+  },
+  {
+    "mesaId": "474",
+    "circuitoId": "00025",
+    "seccionId": "3",
+    "localidad": "00025",
+    "cantidadElectores": 323
+  },
+  {
+    "mesaId": "475",
+    "circuitoId": "00025",
+    "seccionId": "3",
+    "localidad": "00025",
+    "cantidadElectores": 324
+  },
+  {
+    "mesaId": "476",
+    "circuitoId": "00026",
+    "seccionId": "3",
+    "localidad": "00026",
+    "cantidadElectores": 291
+  },
+  {
+    "mesaId": "477",
+    "circuitoId": "00026",
+    "seccionId": "3",
+    "localidad": "00026",
+    "cantidadElectores": 291
+  },
+  {
+    "mesaId": "478",
+    "circuitoId": "00026",
+    "seccionId": "3",
+    "localidad": "00026",
+    "cantidadElectores": 292
+  },
+  {
+    "mesaId": "483",
+    "circuitoId": "00028",
+    "seccionId": "3",
+    "localidad": "00028",
+    "cantidadElectores": 287
+  },
+  {
+    "mesaId": "461",
+    "circuitoId": "00022",
+    "seccionId": "3",
+    "localidad": "00022",
+    "cantidadElectores": 113
+  },
+  {
+    "mesaId": "462",
+    "circuitoId": "00023",
+    "seccionId": "3",
+    "localidad": "00023",
+    "cantidadElectores": 160
+  },
+  {
+    "mesaId": "463",
+    "circuitoId": "00024",
+    "seccionId": "3",
+    "localidad": "00024",
+    "cantidadElectores": 271
+  },
+  {
+    "mesaId": "464",
+    "circuitoId": "00024",
+    "seccionId": "3",
+    "localidad": "00024",
+    "cantidadElectores": 271
+  },
+  {
+    "mesaId": "467",
+    "circuitoId": "00025",
+    "seccionId": "3",
+    "localidad": "00025",
+    "cantidadElectores": 324
+  },
+  {
+    "mesaId": "468",
+    "circuitoId": "00025",
+    "seccionId": "3",
+    "localidad": "00025",
+    "cantidadElectores": 323
+  },
+  {
+    "mesaId": "518",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "519",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "520",
+    "circuitoId": "00031",
+    "seccionId": "3",
+    "localidad": "00031",
+    "cantidadElectores": 215
+  },
+  {
+    "mesaId": "521",
+    "circuitoId": "00031",
+    "seccionId": "3",
+    "localidad": "00031",
+    "cantidadElectores": 218
+  },
+  {
+    "mesaId": "522",
+    "circuitoId": "00032",
+    "seccionId": "3",
+    "localidad": "00032",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "523",
+    "circuitoId": "00032",
+    "seccionId": "3",
+    "localidad": "00032",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "524",
+    "circuitoId": "00032",
+    "seccionId": "3",
+    "localidad": "00032",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "525",
+    "circuitoId": "00032",
+    "seccionId": "3",
+    "localidad": "00032",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "526",
+    "circuitoId": "00032",
+    "seccionId": "3",
+    "localidad": "00032",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "527",
+    "circuitoId": "00032",
+    "seccionId": "3",
+    "localidad": "00032",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "504",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "505",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "509",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "510",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "511",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "512",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "513",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "514",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "515",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "516",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "517",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "495",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "496",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "497",
+    "circuitoId": "00030",
+    "seccionId": "3",
+    "localidad": "00030",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "543",
+    "circuitoId": "00043",
+    "seccionId": "4",
+    "localidad": "00043",
+    "cantidadElectores": 263
+  },
+  {
+    "mesaId": "528",
+    "circuitoId": "00033",
+    "seccionId": "4",
+    "localidad": "00033",
+    "cantidadElectores": 213
+  },
+  {
+    "mesaId": "529",
+    "circuitoId": "00033",
+    "seccionId": "4",
+    "localidad": "00033",
+    "cantidadElectores": 215
+  },
+  {
+    "mesaId": "530",
+    "circuitoId": "00034",
+    "seccionId": "4",
+    "localidad": "00034",
+    "cantidadElectores": 325
+  },
+  {
+    "mesaId": "533",
+    "circuitoId": "00037",
+    "seccionId": "4",
+    "localidad": "00037",
+    "cantidadElectores": 176
+  },
+  {
+    "mesaId": "534",
+    "circuitoId": "00037",
+    "seccionId": "4",
+    "localidad": "00037",
+    "cantidadElectores": 177
+  },
+  {
+    "mesaId": "535",
+    "circuitoId": "00038",
+    "seccionId": "4",
+    "localidad": "00038",
+    "cantidadElectores": 178
+  },
+  {
+    "mesaId": "536",
+    "circuitoId": "00038",
+    "seccionId": "4",
+    "localidad": "00038",
+    "cantidadElectores": 179
+  },
+  {
+    "mesaId": "537",
+    "circuitoId": "00039",
+    "seccionId": "4",
+    "localidad": "00039",
+    "cantidadElectores": 177
+  },
+  {
+    "mesaId": "538",
+    "circuitoId": "00040",
+    "seccionId": "4",
+    "localidad": "00040",
+    "cantidadElectores": 60
+  },
+  {
+    "mesaId": "539",
+    "circuitoId": "00041",
+    "seccionId": "4",
+    "localidad": "00041",
+    "cantidadElectores": 164
+  },
+  {
+    "mesaId": "540",
+    "circuitoId": "00042",
+    "seccionId": "4",
+    "localidad": "00042",
+    "cantidadElectores": 264
+  },
+  {
+    "mesaId": "541",
+    "circuitoId": "00042",
+    "seccionId": "4",
+    "localidad": "00042",
+    "cantidadElectores": 264
+  },
+  {
+    "mesaId": "542",
+    "circuitoId": "00042",
+    "seccionId": "4",
+    "localidad": "00042",
+    "cantidadElectores": 265
+  },
+  {
+    "mesaId": "531",
+    "circuitoId": "00035",
+    "seccionId": "4",
+    "localidad": "00035",
+    "cantidadElectores": 102
+  },
+  {
+    "mesaId": "532",
+    "circuitoId": "00036",
+    "seccionId": "4",
+    "localidad": "00036",
+    "cantidadElectores": 185
+  },
+  {
+    "mesaId": "552",
+    "circuitoId": "00047",
+    "seccionId": "5",
+    "localidad": "00047",
+    "cantidadElectores": 137
+  },
+  {
+    "mesaId": "553",
+    "circuitoId": "00048",
+    "seccionId": "5",
+    "localidad": "00048",
+    "cantidadElectores": 246
+  },
+  {
+    "mesaId": "554",
+    "circuitoId": "00049",
+    "seccionId": "5",
+    "localidad": "00049",
+    "cantidadElectores": 200
+  },
+  {
+    "mesaId": "557",
+    "circuitoId": "00050",
+    "seccionId": "5",
+    "localidad": "00050",
+    "cantidadElectores": 298
+  },
+  {
+    "mesaId": "558",
+    "circuitoId": "00050",
+    "seccionId": "5",
+    "localidad": "00050",
+    "cantidadElectores": 297
+  },
+  {
+    "mesaId": "559",
+    "circuitoId": "00050",
+    "seccionId": "5",
+    "localidad": "00050",
+    "cantidadElectores": 299
+  },
+  {
+    "mesaId": "544",
+    "circuitoId": "00044",
+    "seccionId": "5",
+    "localidad": "00044",
+    "cantidadElectores": 322
+  },
+  {
+    "mesaId": "545",
+    "circuitoId": "0044A",
+    "seccionId": "5",
+    "localidad": "0044A",
+    "cantidadElectores": 300
+  },
+  {
+    "mesaId": "546",
+    "circuitoId": "0044A",
+    "seccionId": "5",
+    "localidad": "0044A",
+    "cantidadElectores": 301
+  },
+  {
+    "mesaId": "547",
+    "circuitoId": "0044A",
+    "seccionId": "5",
+    "localidad": "0044A",
+    "cantidadElectores": 299
+  },
+  {
+    "mesaId": "548",
+    "circuitoId": "0044A",
+    "seccionId": "5",
+    "localidad": "0044A",
+    "cantidadElectores": 302
+  },
+  {
+    "mesaId": "549",
+    "circuitoId": "00045",
+    "seccionId": "5",
+    "localidad": "00045",
+    "cantidadElectores": 187
+  },
+  {
+    "mesaId": "550",
+    "circuitoId": "00046",
+    "seccionId": "5",
+    "localidad": "00046",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "551",
+    "circuitoId": "00046",
+    "seccionId": "5",
+    "localidad": "00046",
+    "cantidadElectores": 330
+  },
+  {
+    "mesaId": "555",
+    "circuitoId": "00049",
+    "seccionId": "5",
+    "localidad": "00049",
+    "cantidadElectores": 200
+  },
+  {
+    "mesaId": "556",
+    "circuitoId": "00050",
+    "seccionId": "5",
+    "localidad": "00050",
+    "cantidadElectores": 297
+  },
+  {
+    "mesaId": "590",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "591",
+    "circuitoId": "00059",
+    "seccionId": "6",
+    "localidad": "00059",
+    "cantidadElectores": 287
+  },
+  {
+    "mesaId": "592",
+    "circuitoId": "00059",
+    "seccionId": "6",
+    "localidad": "00059",
+    "cantidadElectores": 288
+  },
+  {
+    "mesaId": "595",
+    "circuitoId": "00061",
+    "seccionId": "6",
+    "localidad": "00061",
+    "cantidadElectores": 238
+  },
+  {
+    "mesaId": "596",
+    "circuitoId": "00061",
+    "seccionId": "6",
+    "localidad": "00061",
+    "cantidadElectores": 248
+  },
+  {
+    "mesaId": "581",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "582",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "583",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "584",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "585",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "586",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "587",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "588",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "589",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "593",
+    "circuitoId": "00060",
+    "seccionId": "6",
+    "localidad": "00060",
+    "cantidadElectores": 323
+  },
+  {
+    "mesaId": "594",
+    "circuitoId": "00061",
+    "seccionId": "6",
+    "localidad": "00061",
+    "cantidadElectores": 226
+  },
+  {
+    "mesaId": "567",
+    "circuitoId": "00053",
+    "seccionId": "6",
+    "localidad": "00053",
+    "cantidadElectores": 306
+  },
+  {
+    "mesaId": "568",
+    "circuitoId": "00053",
+    "seccionId": "6",
+    "localidad": "00053",
+    "cantidadElectores": 306
+  },
+  {
+    "mesaId": "569",
+    "circuitoId": "00053",
+    "seccionId": "6",
+    "localidad": "00053",
+    "cantidadElectores": 308
+  },
+  {
+    "mesaId": "570",
+    "circuitoId": "00053",
+    "seccionId": "6",
+    "localidad": "00053",
+    "cantidadElectores": 304
+  },
+  {
+    "mesaId": "571",
+    "circuitoId": "00054",
+    "seccionId": "6",
+    "localidad": "00054",
+    "cantidadElectores": 153
+  },
+  {
+    "mesaId": "572",
+    "circuitoId": "00055",
+    "seccionId": "6",
+    "localidad": "00055",
+    "cantidadElectores": 232
+  },
+  {
+    "mesaId": "573",
+    "circuitoId": "00056",
+    "seccionId": "6",
+    "localidad": "00056",
+    "cantidadElectores": 210
+  },
+  {
+    "mesaId": "574",
+    "circuitoId": "00057",
+    "seccionId": "6",
+    "localidad": "00057",
+    "cantidadElectores": 316
+  },
+  {
+    "mesaId": "575",
+    "circuitoId": "00057",
+    "seccionId": "6",
+    "localidad": "00057",
+    "cantidadElectores": 324
+  },
+  {
+    "mesaId": "576",
+    "circuitoId": "00057",
+    "seccionId": "6",
+    "localidad": "00057",
+    "cantidadElectores": 327
+  },
+  {
+    "mesaId": "577",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "578",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "579",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "580",
+    "circuitoId": "00058",
+    "seccionId": "6",
+    "localidad": "00058",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "560",
+    "circuitoId": "00051",
+    "seccionId": "6",
+    "localidad": "00051",
+    "cantidadElectores": 322
+  },
+  {
+    "mesaId": "561",
+    "circuitoId": "00051",
+    "seccionId": "6",
+    "localidad": "00051",
+    "cantidadElectores": 322
+  },
+  {
+    "mesaId": "562",
+    "circuitoId": "00051",
+    "seccionId": "6",
+    "localidad": "00051",
+    "cantidadElectores": 321
+  },
+  {
+    "mesaId": "563",
+    "circuitoId": "00051",
+    "seccionId": "6",
+    "localidad": "00051",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "564",
+    "circuitoId": "00052",
+    "seccionId": "6",
+    "localidad": "00052",
+    "cantidadElectores": 162
+  },
+  {
+    "mesaId": "565",
+    "circuitoId": "00053",
+    "seccionId": "6",
+    "localidad": "00053",
+    "cantidadElectores": 305
+  },
+  {
+    "mesaId": "566",
+    "circuitoId": "00053",
+    "seccionId": "6",
+    "localidad": "00053",
+    "cantidadElectores": 299
+  },
+  {
+    "mesaId": "605",
+    "circuitoId": "00065",
+    "seccionId": "7",
+    "localidad": "00065",
+    "cantidadElectores": 314
+  },
+  {
+    "mesaId": "606",
+    "circuitoId": "00065",
+    "seccionId": "7",
+    "localidad": "00065",
+    "cantidadElectores": 315
+  },
+  {
+    "mesaId": "607",
+    "circuitoId": "00065",
+    "seccionId": "7",
+    "localidad": "00065",
+    "cantidadElectores": 314
+  },
+  {
+    "mesaId": "608",
+    "circuitoId": "00065",
+    "seccionId": "7",
+    "localidad": "00065",
+    "cantidadElectores": 314
+  },
+  {
+    "mesaId": "609",
+    "circuitoId": "00065",
+    "seccionId": "7",
+    "localidad": "00065",
+    "cantidadElectores": 315
+  },
+  {
+    "mesaId": "610",
+    "circuitoId": "00066",
+    "seccionId": "7",
+    "localidad": "00066",
+    "cantidadElectores": 201
+  },
+  {
+    "mesaId": "611",
+    "circuitoId": "00067",
+    "seccionId": "7",
+    "localidad": "00067",
+    "cantidadElectores": 186
+  },
+  {
+    "mesaId": "612",
+    "circuitoId": "00067",
+    "seccionId": "7",
+    "localidad": "00067",
+    "cantidadElectores": 186
+  },
+  {
+    "mesaId": "613",
+    "circuitoId": "00068",
+    "seccionId": "7",
+    "localidad": "00068",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "597",
+    "circuitoId": "00062",
+    "seccionId": "7",
+    "localidad": "00062",
+    "cantidadElectores": 230
+  },
+  {
+    "mesaId": "598",
+    "circuitoId": "00063",
+    "seccionId": "7",
+    "localidad": "00063",
+    "cantidadElectores": 280
+  },
+  {
+    "mesaId": "599",
+    "circuitoId": "00063",
+    "seccionId": "7",
+    "localidad": "00063",
+    "cantidadElectores": 278
+  },
+  {
+    "mesaId": "600",
+    "circuitoId": "00063",
+    "seccionId": "7",
+    "localidad": "00063",
+    "cantidadElectores": 281
+  },
+  {
+    "mesaId": "601",
+    "circuitoId": "00064",
+    "seccionId": "7",
+    "localidad": "00064",
+    "cantidadElectores": 184
+  },
+  {
+    "mesaId": "602",
+    "circuitoId": "00064",
+    "seccionId": "7",
+    "localidad": "00064",
+    "cantidadElectores": 184
+  },
+  {
+    "mesaId": "603",
+    "circuitoId": "00065",
+    "seccionId": "7",
+    "localidad": "00065",
+    "cantidadElectores": 315
+  },
+  {
+    "mesaId": "604",
+    "circuitoId": "00065",
+    "seccionId": "7",
+    "localidad": "00065",
+    "cantidadElectores": 315
+  },
+  {
+    "mesaId": "691",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "692",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "693",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "695",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "696",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "697",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "676",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "677",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "681",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "682",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "683",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 327
+  },
+  {
+    "mesaId": "684",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "685",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 325
+  },
+  {
+    "mesaId": "686",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 327
+  },
+  {
+    "mesaId": "687",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "688",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "689",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "690",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "694",
+    "circuitoId": "00076",
+    "seccionId": "8",
+    "localidad": "00076",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "667",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "668",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "669",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "670",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "672",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "673",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "674",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 353
+  },
+  {
+    "mesaId": "675",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 327
+  },
+  {
+    "mesaId": "678",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "679",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "680",
+    "circuitoId": "00075",
+    "seccionId": "8",
+    "localidad": "00075",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "653",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "654",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "657",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "658",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "659",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "660",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "661",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 354
+  },
+  {
+    "mesaId": "662",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "663",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "664",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "665",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "666",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "671",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "643",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "644",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "645",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "646",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "647",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "648",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "649",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "650",
+    "circuitoId": "00073",
+    "seccionId": "8",
+    "localidad": "00073",
+    "cantidadElectores": 223
+  },
+  {
+    "mesaId": "651",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "652",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "655",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "656",
+    "circuitoId": "00074",
+    "seccionId": "8",
+    "localidad": "00074",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "629",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "630",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "631",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "632",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "634",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "635",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "636",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "637",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "638",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "639",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "640",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "641",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "642",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "615",
+    "circuitoId": "00070",
+    "seccionId": "8",
+    "localidad": "00070",
+    "cantidadElectores": 309
+  },
+  {
+    "mesaId": "616",
+    "circuitoId": "00070",
+    "seccionId": "8",
+    "localidad": "00070",
+    "cantidadElectores": 312
+  },
+  {
+    "mesaId": "619",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "620",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "621",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "622",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "623",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "624",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "625",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "626",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "627",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "628",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "633",
+    "circuitoId": "00072",
+    "seccionId": "8",
+    "localidad": "00072",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "614",
+    "circuitoId": "00069",
+    "seccionId": "8",
+    "localidad": "00069",
+    "cantidadElectores": 228
+  },
+  {
+    "mesaId": "617",
+    "circuitoId": "00071",
+    "seccionId": "8",
+    "localidad": "00071",
+    "cantidadElectores": 210
+  },
+  {
+    "mesaId": "618",
+    "circuitoId": "00071",
+    "seccionId": "8",
+    "localidad": "00071",
+    "cantidadElectores": 210
+  },
+  {
+    "mesaId": "733",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "734",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "735",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "726",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "727",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "728",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "729",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "730",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "731",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "732",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "718",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 331
+  },
+  {
+    "mesaId": "719",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 333
+  },
+  {
+    "mesaId": "720",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 333
+  },
+  {
+    "mesaId": "721",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 332
+  },
+  {
+    "mesaId": "722",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 337
+  },
+  {
+    "mesaId": "723",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "724",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "725",
+    "circuitoId": "00081",
+    "seccionId": "9",
+    "localidad": "00081",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "705",
+    "circuitoId": "00078",
+    "seccionId": "9",
+    "localidad": "00078",
+    "cantidadElectores": 241
+  },
+  {
+    "mesaId": "706",
+    "circuitoId": "00078",
+    "seccionId": "9",
+    "localidad": "00078",
+    "cantidadElectores": 245
+  },
+  {
+    "mesaId": "707",
+    "circuitoId": "00079",
+    "seccionId": "9",
+    "localidad": "00079",
+    "cantidadElectores": 237
+  },
+  {
+    "mesaId": "708",
+    "circuitoId": "00079",
+    "seccionId": "9",
+    "localidad": "00079",
+    "cantidadElectores": 240
+  },
+  {
+    "mesaId": "709",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 334
+  },
+  {
+    "mesaId": "710",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 336
+  },
+  {
+    "mesaId": "711",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 334
+  },
+  {
+    "mesaId": "712",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 333
+  },
+  {
+    "mesaId": "713",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 333
+  },
+  {
+    "mesaId": "714",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 334
+  },
+  {
+    "mesaId": "715",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "716",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 333
+  },
+  {
+    "mesaId": "717",
+    "circuitoId": "00080",
+    "seccionId": "9",
+    "localidad": "00080",
+    "cantidadElectores": 334
+  },
+  {
+    "mesaId": "698",
+    "circuitoId": "00077",
+    "seccionId": "9",
+    "localidad": "00077",
+    "cantidadElectores": 308
+  },
+  {
+    "mesaId": "699",
+    "circuitoId": "00077",
+    "seccionId": "9",
+    "localidad": "00077",
+    "cantidadElectores": 309
+  },
+  {
+    "mesaId": "700",
+    "circuitoId": "00077",
+    "seccionId": "9",
+    "localidad": "00077",
+    "cantidadElectores": 310
+  },
+  {
+    "mesaId": "701",
+    "circuitoId": "00077",
+    "seccionId": "9",
+    "localidad": "00077",
+    "cantidadElectores": 309
+  },
+  {
+    "mesaId": "702",
+    "circuitoId": "00077",
+    "seccionId": "9",
+    "localidad": "00077",
+    "cantidadElectores": 311
+  },
+  {
+    "mesaId": "703",
+    "circuitoId": "00077",
+    "seccionId": "9",
+    "localidad": "00077",
+    "cantidadElectores": 311
+  },
+  {
+    "mesaId": "704",
+    "circuitoId": "00078",
+    "seccionId": "9",
+    "localidad": "00078",
+    "cantidadElectores": 244
+  },
+  {
+    "mesaId": "743",
+    "circuitoId": "00084",
+    "seccionId": "10",
+    "localidad": "00084",
+    "cantidadElectores": 310
+  },
+  {
+    "mesaId": "748",
+    "circuitoId": "00086",
+    "seccionId": "10",
+    "localidad": "00086",
+    "cantidadElectores": 252
+  },
+  {
+    "mesaId": "749",
+    "circuitoId": "00086",
+    "seccionId": "10",
+    "localidad": "00086",
+    "cantidadElectores": 253
+  },
+  {
+    "mesaId": "750",
+    "circuitoId": "00087",
+    "seccionId": "10",
+    "localidad": "00087",
+    "cantidadElectores": 185
+  },
+  {
+    "mesaId": "751",
+    "circuitoId": "00087",
+    "seccionId": "10",
+    "localidad": "00087",
+    "cantidadElectores": 187
+  },
+  {
+    "mesaId": "752",
+    "circuitoId": "00088",
+    "seccionId": "10",
+    "localidad": "00088",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "753",
+    "circuitoId": "00088",
+    "seccionId": "10",
+    "localidad": "00088",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "754",
+    "circuitoId": "00088",
+    "seccionId": "10",
+    "localidad": "00088",
+    "cantidadElectores": 331
+  },
+  {
+    "mesaId": "755",
+    "circuitoId": "00089",
+    "seccionId": "10",
+    "localidad": "00089",
+    "cantidadElectores": 210
+  },
+  {
+    "mesaId": "756",
+    "circuitoId": "00089",
+    "seccionId": "10",
+    "localidad": "00089",
+    "cantidadElectores": 215
+  },
+  {
+    "mesaId": "736",
+    "circuitoId": "00082",
+    "seccionId": "10",
+    "localidad": "00082",
+    "cantidadElectores": 83
+  },
+  {
+    "mesaId": "738",
+    "circuitoId": "00083",
+    "seccionId": "10",
+    "localidad": "00083",
+    "cantidadElectores": 307
+  },
+  {
+    "mesaId": "739",
+    "circuitoId": "00083",
+    "seccionId": "10",
+    "localidad": "00083",
+    "cantidadElectores": 307
+  },
+  {
+    "mesaId": "740",
+    "circuitoId": "00083",
+    "seccionId": "10",
+    "localidad": "00083",
+    "cantidadElectores": 306
+  },
+  {
+    "mesaId": "741",
+    "circuitoId": "00083",
+    "seccionId": "10",
+    "localidad": "00083",
+    "cantidadElectores": 308
+  },
+  {
+    "mesaId": "742",
+    "circuitoId": "00084",
+    "seccionId": "10",
+    "localidad": "00084",
+    "cantidadElectores": 311
+  },
+  {
+    "mesaId": "744",
+    "circuitoId": "00084",
+    "seccionId": "10",
+    "localidad": "00084",
+    "cantidadElectores": 308
+  },
+  {
+    "mesaId": "745",
+    "circuitoId": "00084",
+    "seccionId": "10",
+    "localidad": "00084",
+    "cantidadElectores": 313
+  },
+  {
+    "mesaId": "746",
+    "circuitoId": "00085",
+    "seccionId": "10",
+    "localidad": "00085",
+    "cantidadElectores": 97
+  },
+  {
+    "mesaId": "747",
+    "circuitoId": "00086",
+    "seccionId": "10",
+    "localidad": "00086",
+    "cantidadElectores": 250
+  },
+  {
+    "mesaId": "737",
+    "circuitoId": "00083",
+    "seccionId": "10",
+    "localidad": "00083",
+    "cantidadElectores": 306
+  },
+  {
+    "mesaId": "782",
+    "circuitoId": "00098",
+    "seccionId": "11",
+    "localidad": "00098",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "783",
+    "circuitoId": "00098",
+    "seccionId": "11",
+    "localidad": "00098",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "784",
+    "circuitoId": "00098",
+    "seccionId": "11",
+    "localidad": "00098",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "787",
+    "circuitoId": "00098",
+    "seccionId": "11",
+    "localidad": "00098",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "788",
+    "circuitoId": "00098",
+    "seccionId": "11",
+    "localidad": "00098",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "772",
+    "circuitoId": "00096",
+    "seccionId": "11",
+    "localidad": "00096",
+    "cantidadElectores": 313
+  },
+  {
+    "mesaId": "773",
+    "circuitoId": "00096",
+    "seccionId": "11",
+    "localidad": "00096",
+    "cantidadElectores": 314
+  },
+  {
+    "mesaId": "774",
+    "circuitoId": "00096",
+    "seccionId": "11",
+    "localidad": "00096",
+    "cantidadElectores": 313
+  },
+  {
+    "mesaId": "775",
+    "circuitoId": "00096",
+    "seccionId": "11",
+    "localidad": "00096",
+    "cantidadElectores": 313
+  },
+  {
+    "mesaId": "776",
+    "circuitoId": "00096",
+    "seccionId": "11",
+    "localidad": "00096",
+    "cantidadElectores": 314
+  },
+  {
+    "mesaId": "777",
+    "circuitoId": "00096",
+    "seccionId": "11",
+    "localidad": "00096",
+    "cantidadElectores": 315
+  },
+  {
+    "mesaId": "778",
+    "circuitoId": "00097",
+    "seccionId": "11",
+    "localidad": "00097",
+    "cantidadElectores": 315
+  },
+  {
+    "mesaId": "779",
+    "circuitoId": "00097",
+    "seccionId": "11",
+    "localidad": "00097",
+    "cantidadElectores": 315
+  },
+  {
+    "mesaId": "780",
+    "circuitoId": "00097",
+    "seccionId": "11",
+    "localidad": "00097",
+    "cantidadElectores": 316
+  },
+  {
+    "mesaId": "781",
+    "circuitoId": "00098",
+    "seccionId": "11",
+    "localidad": "00098",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "785",
+    "circuitoId": "00098",
+    "seccionId": "11",
+    "localidad": "00098",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "786",
+    "circuitoId": "00098",
+    "seccionId": "11",
+    "localidad": "00098",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "757",
+    "circuitoId": "00090",
+    "seccionId": "11",
+    "localidad": "00090",
+    "cantidadElectores": 217
+  },
+  {
+    "mesaId": "758",
+    "circuitoId": "00090",
+    "seccionId": "11",
+    "localidad": "00090",
+    "cantidadElectores": 221
+  },
+  {
+    "mesaId": "759",
+    "circuitoId": "00091",
+    "seccionId": "11",
+    "localidad": "00091",
+    "cantidadElectores": 336
+  },
+  {
+    "mesaId": "760",
+    "circuitoId": "00091",
+    "seccionId": "11",
+    "localidad": "00091",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "762",
+    "circuitoId": "00092",
+    "seccionId": "11",
+    "localidad": "00092",
+    "cantidadElectores": 252
+  },
+  {
+    "mesaId": "763",
+    "circuitoId": "00093",
+    "seccionId": "11",
+    "localidad": "00093",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "764",
+    "circuitoId": "00093",
+    "seccionId": "11",
+    "localidad": "00093",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "765",
+    "circuitoId": "00093",
+    "seccionId": "11",
+    "localidad": "00093",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "766",
+    "circuitoId": "00094",
+    "seccionId": "11",
+    "localidad": "00094",
+    "cantidadElectores": 249
+  },
+  {
+    "mesaId": "767",
+    "circuitoId": "00094",
+    "seccionId": "11",
+    "localidad": "00094",
+    "cantidadElectores": 249
+  },
+  {
+    "mesaId": "768",
+    "circuitoId": "00095",
+    "seccionId": "11",
+    "localidad": "00095",
+    "cantidadElectores": 180
+  },
+  {
+    "mesaId": "769",
+    "circuitoId": "00095",
+    "seccionId": "11",
+    "localidad": "00095",
+    "cantidadElectores": 180
+  },
+  {
+    "mesaId": "770",
+    "circuitoId": "00096",
+    "seccionId": "11",
+    "localidad": "00096",
+    "cantidadElectores": 316
+  },
+  {
+    "mesaId": "771",
+    "circuitoId": "00096",
+    "seccionId": "11",
+    "localidad": "00096",
+    "cantidadElectores": 313
+  },
+  {
+    "mesaId": "761",
+    "circuitoId": "00092",
+    "seccionId": "11",
+    "localidad": "00092",
+    "cantidadElectores": 252
+  },
+  {
+    "mesaId": "834",
+    "circuitoId": "00107",
+    "seccionId": "12",
+    "localidad": "00107",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "835",
+    "circuitoId": "00107",
+    "seccionId": "12",
+    "localidad": "00107",
+    "cantidadElectores": 337
+  },
+  {
+    "mesaId": "836",
+    "circuitoId": "00107",
+    "seccionId": "12",
+    "localidad": "00107",
+    "cantidadElectores": 335
+  },
+  {
+    "mesaId": "837",
+    "circuitoId": "00107",
+    "seccionId": "12",
+    "localidad": "00107",
+    "cantidadElectores": 334
+  },
+  {
+    "mesaId": "838",
+    "circuitoId": "00107",
+    "seccionId": "12",
+    "localidad": "00107",
+    "cantidadElectores": 336
+  },
+  {
+    "mesaId": "839",
+    "circuitoId": "00108",
+    "seccionId": "12",
+    "localidad": "00108",
+    "cantidadElectores": 36
+  },
+  {
+    "mesaId": "840",
+    "circuitoId": "00109",
+    "seccionId": "12",
+    "localidad": "00109",
+    "cantidadElectores": 147
+  },
+  {
+    "mesaId": "820",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "821",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "822",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "825",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "826",
+    "circuitoId": "00103",
+    "seccionId": "12",
+    "localidad": "00103",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "827",
+    "circuitoId": "00103",
+    "seccionId": "12",
+    "localidad": "00103",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "828",
+    "circuitoId": "00103",
+    "seccionId": "12",
+    "localidad": "00103",
+    "cantidadElectores": 325
+  },
+  {
+    "mesaId": "829",
+    "circuitoId": "00103",
+    "seccionId": "12",
+    "localidad": "00103",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "830",
+    "circuitoId": "00103",
+    "seccionId": "12",
+    "localidad": "00103",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "831",
+    "circuitoId": "00104",
+    "seccionId": "12",
+    "localidad": "00104",
+    "cantidadElectores": 322
+  },
+  {
+    "mesaId": "832",
+    "circuitoId": "00105",
+    "seccionId": "12",
+    "localidad": "00105",
+    "cantidadElectores": 210
+  },
+  {
+    "mesaId": "833",
+    "circuitoId": "00106",
+    "seccionId": "12",
+    "localidad": "00106",
+    "cantidadElectores": 179
+  },
+  {
+    "mesaId": "806",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "810",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "811",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "812",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "813",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "814",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "815",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "816",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "817",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "818",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "819",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "823",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "824",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "796",
+    "circuitoId": "00099",
+    "seccionId": "12",
+    "localidad": "00099",
+    "cantidadElectores": 323
+  },
+  {
+    "mesaId": "797",
+    "circuitoId": "00100",
+    "seccionId": "12",
+    "localidad": "00100",
+    "cantidadElectores": 90
+  },
+  {
+    "mesaId": "798",
+    "circuitoId": "00101",
+    "seccionId": "12",
+    "localidad": "00101",
+    "cantidadElectores": 86
+  },
+  {
+    "mesaId": "799",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "800",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "801",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "802",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "803",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "804",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "805",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "807",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "808",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "809",
+    "circuitoId": "00102",
+    "seccionId": "12",
+    "localidad": "00102",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "789",
+    "circuitoId": "00099",
+    "seccionId": "12",
+    "localidad": "00099",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "790",
+    "circuitoId": "00099",
+    "seccionId": "12",
+    "localidad": "00099",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "791",
+    "circuitoId": "00099",
+    "seccionId": "12",
+    "localidad": "00099",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "792",
+    "circuitoId": "00099",
+    "seccionId": "12",
+    "localidad": "00099",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "793",
+    "circuitoId": "00099",
+    "seccionId": "12",
+    "localidad": "00099",
+    "cantidadElectores": 318
+  },
+  {
+    "mesaId": "794",
+    "circuitoId": "00099",
+    "seccionId": "12",
+    "localidad": "00099",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "795",
+    "circuitoId": "00099",
+    "seccionId": "12",
+    "localidad": "00099",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "907",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "908",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "909",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "910",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "912",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "913",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "914",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "915",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "916",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "917",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "918",
+    "circuitoId": "00125",
+    "seccionId": "13",
+    "localidad": "00125",
+    "cantidadElectores": 310
+  },
+  {
+    "mesaId": "919",
+    "circuitoId": "00125",
+    "seccionId": "13",
+    "localidad": "00125",
+    "cantidadElectores": 309
+  },
+  {
+    "mesaId": "920",
+    "circuitoId": "00125",
+    "seccionId": "13",
+    "localidad": "00125",
+    "cantidadElectores": 309
+  },
+  {
+    "mesaId": "893",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "897",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "898",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "899",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "900",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "901",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "902",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 345
+  },
+  {
+    "mesaId": "903",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "904",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "905",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "906",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "911",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "883",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "884",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 350
+  },
+  {
+    "mesaId": "885",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 352
+  },
+  {
+    "mesaId": "886",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "888",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "889",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "890",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "891",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "892",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "894",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "895",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 351
+  },
+  {
+    "mesaId": "896",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 349
+  },
+  {
+    "mesaId": "868",
+    "circuitoId": "00120",
+    "seccionId": "13",
+    "localidad": "00120",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "869",
+    "circuitoId": "00120",
+    "seccionId": "13",
+    "localidad": "00120",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "873",
+    "circuitoId": "00120",
+    "seccionId": "13",
+    "localidad": "00120",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "874",
+    "circuitoId": "00120",
+    "seccionId": "13",
+    "localidad": "00120",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "875",
+    "circuitoId": "00120",
+    "seccionId": "13",
+    "localidad": "00120",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "876",
+    "circuitoId": "00121",
+    "seccionId": "13",
+    "localidad": "00121",
+    "cantidadElectores": 155
+  },
+  {
+    "mesaId": "877",
+    "circuitoId": "00122",
+    "seccionId": "13",
+    "localidad": "00122",
+    "cantidadElectores": 281
+  },
+  {
+    "mesaId": "878",
+    "circuitoId": "00122",
+    "seccionId": "13",
+    "localidad": "00122",
+    "cantidadElectores": 286
+  },
+  {
+    "mesaId": "879",
+    "circuitoId": "00123",
+    "seccionId": "13",
+    "localidad": "00123",
+    "cantidadElectores": 269
+  },
+  {
+    "mesaId": "880",
+    "circuitoId": "00123",
+    "seccionId": "13",
+    "localidad": "00123",
+    "cantidadElectores": 267
+  },
+  {
+    "mesaId": "881",
+    "circuitoId": "00123",
+    "seccionId": "13",
+    "localidad": "00123",
+    "cantidadElectores": 269
+  },
+  {
+    "mesaId": "882",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 348
+  },
+  {
+    "mesaId": "887",
+    "circuitoId": "00124",
+    "seccionId": "13",
+    "localidad": "00124",
+    "cantidadElectores": 347
+  },
+  {
+    "mesaId": "858",
+    "circuitoId": "0116A",
+    "seccionId": "13",
+    "localidad": "0116A",
+    "cantidadElectores": 43
+  },
+  {
+    "mesaId": "859",
+    "circuitoId": "0116B",
+    "seccionId": "13",
+    "localidad": "0116B",
+    "cantidadElectores": 118
+  },
+  {
+    "mesaId": "860",
+    "circuitoId": "00117",
+    "seccionId": "13",
+    "localidad": "00117",
+    "cantidadElectores": 187
+  },
+  {
+    "mesaId": "861",
+    "circuitoId": "00117",
+    "seccionId": "13",
+    "localidad": "00117",
+    "cantidadElectores": 190
+  },
+  {
+    "mesaId": "862",
+    "circuitoId": "00118",
+    "seccionId": "13",
+    "localidad": "00118",
+    "cantidadElectores": 139
+  },
+  {
+    "mesaId": "863",
+    "circuitoId": "00119",
+    "seccionId": "13",
+    "localidad": "00119",
+    "cantidadElectores": 325
+  },
+  {
+    "mesaId": "864",
+    "circuitoId": "00119",
+    "seccionId": "13",
+    "localidad": "00119",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "865",
+    "circuitoId": "00119",
+    "seccionId": "13",
+    "localidad": "00119",
+    "cantidadElectores": 322
+  },
+  {
+    "mesaId": "866",
+    "circuitoId": "00119",
+    "seccionId": "13",
+    "localidad": "00119",
+    "cantidadElectores": 331
+  },
+  {
+    "mesaId": "867",
+    "circuitoId": "00119",
+    "seccionId": "13",
+    "localidad": "00119",
+    "cantidadElectores": 326
+  },
+  {
+    "mesaId": "870",
+    "circuitoId": "00120",
+    "seccionId": "13",
+    "localidad": "00120",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "871",
+    "circuitoId": "00120",
+    "seccionId": "13",
+    "localidad": "00120",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "872",
+    "circuitoId": "00120",
+    "seccionId": "13",
+    "localidad": "00120",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "844",
+    "circuitoId": "00111",
+    "seccionId": "13",
+    "localidad": "00111",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "845",
+    "circuitoId": "00111",
+    "seccionId": "13",
+    "localidad": "00111",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "849",
+    "circuitoId": "00113",
+    "seccionId": "13",
+    "localidad": "00113",
+    "cantidadElectores": 264
+  },
+  {
+    "mesaId": "850",
+    "circuitoId": "0113A",
+    "seccionId": "13",
+    "localidad": "0113A",
+    "cantidadElectores": 53
+  },
+  {
+    "mesaId": "851",
+    "circuitoId": "00114",
+    "seccionId": "13",
+    "localidad": "00114",
+    "cantidadElectores": 266
+  },
+  {
+    "mesaId": "852",
+    "circuitoId": "00114",
+    "seccionId": "13",
+    "localidad": "00114",
+    "cantidadElectores": 266
+  },
+  {
+    "mesaId": "853",
+    "circuitoId": "00114",
+    "seccionId": "13",
+    "localidad": "00114",
+    "cantidadElectores": 268
+  },
+  {
+    "mesaId": "854",
+    "circuitoId": "00114",
+    "seccionId": "13",
+    "localidad": "00114",
+    "cantidadElectores": 269
+  },
+  {
+    "mesaId": "855",
+    "circuitoId": "00115",
+    "seccionId": "13",
+    "localidad": "00115",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "856",
+    "circuitoId": "00115",
+    "seccionId": "13",
+    "localidad": "00115",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "857",
+    "circuitoId": "00116",
+    "seccionId": "13",
+    "localidad": "00116",
+    "cantidadElectores": 235
+  },
+  {
+    "mesaId": "841",
+    "circuitoId": "00110",
+    "seccionId": "13",
+    "localidad": "00110",
+    "cantidadElectores": 33
+  },
+  {
+    "mesaId": "842",
+    "circuitoId": "00111",
+    "seccionId": "13",
+    "localidad": "00111",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "843",
+    "circuitoId": "00111",
+    "seccionId": "13",
+    "localidad": "00111",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "846",
+    "circuitoId": "00112",
+    "seccionId": "13",
+    "localidad": "00112",
+    "cantidadElectores": 104
+  },
+  {
+    "mesaId": "847",
+    "circuitoId": "00113",
+    "seccionId": "13",
+    "localidad": "00113",
+    "cantidadElectores": 263
+  },
+  {
+    "mesaId": "848",
+    "circuitoId": "00113",
+    "seccionId": "13",
+    "localidad": "00113",
+    "cantidadElectores": 262
+  },
+  {
+    "mesaId": "922",
+    "circuitoId": "00126",
+    "seccionId": "14",
+    "localidad": "00126",
+    "cantidadElectores": 272
+  },
+  {
+    "mesaId": "923",
+    "circuitoId": "00126",
+    "seccionId": "14",
+    "localidad": "00126",
+    "cantidadElectores": 277
+  },
+  {
+    "mesaId": "924",
+    "circuitoId": "00126",
+    "seccionId": "14",
+    "localidad": "00126",
+    "cantidadElectores": 276
+  },
+  {
+    "mesaId": "925",
+    "circuitoId": "00126",
+    "seccionId": "14",
+    "localidad": "00126",
+    "cantidadElectores": 285
+  },
+  {
+    "mesaId": "926",
+    "circuitoId": "00127",
+    "seccionId": "14",
+    "localidad": "00127",
+    "cantidadElectores": 206
+  },
+  {
+    "mesaId": "927",
+    "circuitoId": "00127",
+    "seccionId": "14",
+    "localidad": "00127",
+    "cantidadElectores": 209
+  },
+  {
+    "mesaId": "921",
+    "circuitoId": "00126",
+    "seccionId": "14",
+    "localidad": "00126",
+    "cantidadElectores": 275
+  },
+  {
+    "mesaId": "983",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "984",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "985",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "986",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "988",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "989",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "990",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "991",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "969",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "970",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "974",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "975",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "976",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "977",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "978",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "979",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "980",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "981",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "982",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "987",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "959",
+    "circuitoId": "00140",
+    "seccionId": "15",
+    "localidad": "00140",
+    "cantidadElectores": 299
+  },
+  {
+    "mesaId": "960",
+    "circuitoId": "00140",
+    "seccionId": "15",
+    "localidad": "00140",
+    "cantidadElectores": 301
+  },
+  {
+    "mesaId": "961",
+    "circuitoId": "00141",
+    "seccionId": "15",
+    "localidad": "00141",
+    "cantidadElectores": 258
+  },
+  {
+    "mesaId": "962",
+    "circuitoId": "00142",
+    "seccionId": "15",
+    "localidad": "00142",
+    "cantidadElectores": 305
+  },
+  {
+    "mesaId": "963",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "964",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "965",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "966",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "967",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "968",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "971",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 336
+  },
+  {
+    "mesaId": "972",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "973",
+    "circuitoId": "00143",
+    "seccionId": "15",
+    "localidad": "00143",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "945",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "946",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "947",
+    "circuitoId": "00133",
+    "seccionId": "15",
+    "localidad": "00133",
+    "cantidadElectores": 177
+  },
+  {
+    "mesaId": "948",
+    "circuitoId": "00134",
+    "seccionId": "15",
+    "localidad": "00134",
+    "cantidadElectores": 175
+  },
+  {
+    "mesaId": "950",
+    "circuitoId": "00136",
+    "seccionId": "15",
+    "localidad": "00136",
+    "cantidadElectores": 295
+  },
+  {
+    "mesaId": "951",
+    "circuitoId": "00136",
+    "seccionId": "15",
+    "localidad": "00136",
+    "cantidadElectores": 295
+  },
+  {
+    "mesaId": "952",
+    "circuitoId": "00136",
+    "seccionId": "15",
+    "localidad": "00136",
+    "cantidadElectores": 297
+  },
+  {
+    "mesaId": "953",
+    "circuitoId": "00137",
+    "seccionId": "15",
+    "localidad": "00137",
+    "cantidadElectores": 323
+  },
+  {
+    "mesaId": "954",
+    "circuitoId": "00137",
+    "seccionId": "15",
+    "localidad": "00137",
+    "cantidadElectores": 323
+  },
+  {
+    "mesaId": "955",
+    "circuitoId": "00137",
+    "seccionId": "15",
+    "localidad": "00137",
+    "cantidadElectores": 320
+  },
+  {
+    "mesaId": "956",
+    "circuitoId": "00138",
+    "seccionId": "15",
+    "localidad": "00138",
+    "cantidadElectores": 272
+  },
+  {
+    "mesaId": "957",
+    "circuitoId": "00138",
+    "seccionId": "15",
+    "localidad": "00138",
+    "cantidadElectores": 273
+  },
+  {
+    "mesaId": "958",
+    "circuitoId": "00139",
+    "seccionId": "15",
+    "localidad": "00139",
+    "cantidadElectores": 127
+  },
+  {
+    "mesaId": "931",
+    "circuitoId": "00130",
+    "seccionId": "15",
+    "localidad": "00130",
+    "cantidadElectores": 179
+  },
+  {
+    "mesaId": "932",
+    "circuitoId": "00131",
+    "seccionId": "15",
+    "localidad": "00131",
+    "cantidadElectores": 297
+  },
+  {
+    "mesaId": "936",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "937",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "938",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "939",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "940",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "941",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "942",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "943",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 337
+  },
+  {
+    "mesaId": "944",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 339
+  },
+  {
+    "mesaId": "949",
+    "circuitoId": "00135",
+    "seccionId": "15",
+    "localidad": "00135",
+    "cantidadElectores": 71
+  },
+  {
+    "mesaId": "928",
+    "circuitoId": "00128",
+    "seccionId": "15",
+    "localidad": "00128",
+    "cantidadElectores": 214
+  },
+  {
+    "mesaId": "929",
+    "circuitoId": "00129",
+    "seccionId": "15",
+    "localidad": "00129",
+    "cantidadElectores": 121
+  },
+  {
+    "mesaId": "930",
+    "circuitoId": "00130",
+    "seccionId": "15",
+    "localidad": "00130",
+    "cantidadElectores": 177
+  },
+  {
+    "mesaId": "933",
+    "circuitoId": "00131",
+    "seccionId": "15",
+    "localidad": "00131",
+    "cantidadElectores": 298
+  },
+  {
+    "mesaId": "934",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "935",
+    "circuitoId": "00132",
+    "seccionId": "15",
+    "localidad": "00132",
+    "cantidadElectores": 338
+  },
+  {
+    "mesaId": "1056",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "1057",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 340
+  },
+  {
+    "mesaId": "1058",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "1042",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1043",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1047",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1048",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "1049",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1050",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1051",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 346
+  },
+  {
+    "mesaId": "1052",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1053",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "1054",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "1055",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1033",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "1034",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "1035",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "1036",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1037",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1038",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "1039",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1040",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "1041",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "1044",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "1045",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1046",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1023",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "1024",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "1025",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1026",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "1027",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1028",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "1029",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 341
+  },
+  {
+    "mesaId": "1030",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 342
+  },
+  {
+    "mesaId": "1031",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "1032",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 344
+  },
+  {
+    "mesaId": "1022",
+    "circuitoId": "00154",
+    "seccionId": "16",
+    "localidad": "00154",
+    "cantidadElectores": 343
+  },
+  {
+    "mesaId": "1021",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 322
+  },
+  {
+    "mesaId": "1007",
+    "circuitoId": "00151",
+    "seccionId": "16",
+    "localidad": "00151",
+    "cantidadElectores": 314
+  },
+  {
+    "mesaId": "1008",
+    "circuitoId": "00151",
+    "seccionId": "16",
+    "localidad": "00151",
+    "cantidadElectores": 314
+  },
+  {
+    "mesaId": "1009",
+    "circuitoId": "00151",
+    "seccionId": "16",
+    "localidad": "00151",
+    "cantidadElectores": 317
+  },
+  {
+    "mesaId": "1012",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 320
+  },
+  {
+    "mesaId": "1013",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 318
+  },
+  {
+    "mesaId": "1014",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 323
+  },
+  {
+    "mesaId": "1015",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "1016",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "1017",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "1018",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "1019",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "1020",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 319
+  },
+  {
+    "mesaId": "993",
+    "circuitoId": "00145",
+    "seccionId": "16",
+    "localidad": "00145",
+    "cantidadElectores": 230
+  },
+  {
+    "mesaId": "997",
+    "circuitoId": "00147",
+    "seccionId": "16",
+    "localidad": "00147",
+    "cantidadElectores": 288
+  },
+  {
+    "mesaId": "998",
+    "circuitoId": "00147",
+    "seccionId": "16",
+    "localidad": "00147",
+    "cantidadElectores": 286
+  },
+  {
+    "mesaId": "999",
+    "circuitoId": "00147",
+    "seccionId": "16",
+    "localidad": "00147",
+    "cantidadElectores": 286
+  },
+  {
+    "mesaId": "1000",
+    "circuitoId": "00147",
+    "seccionId": "16",
+    "localidad": "00147",
+    "cantidadElectores": 287
+  },
+  {
+    "mesaId": "1001",
+    "circuitoId": "00148",
+    "seccionId": "16",
+    "localidad": "00148",
+    "cantidadElectores": 250
+  },
+  {
+    "mesaId": "1002",
+    "circuitoId": "00149",
+    "seccionId": "16",
+    "localidad": "00149",
+    "cantidadElectores": 328
+  },
+  {
+    "mesaId": "1003",
+    "circuitoId": "00149",
+    "seccionId": "16",
+    "localidad": "00149",
+    "cantidadElectores": 331
+  },
+  {
+    "mesaId": "1004",
+    "circuitoId": "00150",
+    "seccionId": "16",
+    "localidad": "00150",
+    "cantidadElectores": 165
+  },
+  {
+    "mesaId": "1005",
+    "circuitoId": "00151",
+    "seccionId": "16",
+    "localidad": "00151",
+    "cantidadElectores": 313
+  },
+  {
+    "mesaId": "1006",
+    "circuitoId": "00151",
+    "seccionId": "16",
+    "localidad": "00151",
+    "cantidadElectores": 313
+  },
+  {
+    "mesaId": "1010",
+    "circuitoId": "00152",
+    "seccionId": "16",
+    "localidad": "00152",
+    "cantidadElectores": 214
+  },
+  {
+    "mesaId": "1011",
+    "circuitoId": "00153",
+    "seccionId": "16",
+    "localidad": "00153",
+    "cantidadElectores": 321
+  },
+  {
+    "mesaId": "992",
+    "circuitoId": "00144",
+    "seccionId": "16",
+    "localidad": "00144",
+    "cantidadElectores": 166
+  },
+  {
+    "mesaId": "994",
+    "circuitoId": "00146",
+    "seccionId": "16",
+    "localidad": "00146",
+    "cantidadElectores": 296
+  },
+  {
+    "mesaId": "995",
+    "circuitoId": "00146",
+    "seccionId": "16",
+    "localidad": "00146",
+    "cantidadElectores": 299
+  },
+  {
+    "mesaId": "996",
+    "circuitoId": "00147",
+    "seccionId": "16",
+    "localidad": "00147",
+    "cantidadElectores": 288
+  }
+]
